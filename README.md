@@ -19,9 +19,9 @@ Os exercícios estão organizados em pastas separadas, conforme listado abaixo:
    - Descrição: Análise de um trecho de código para determinar o valor da variável `SOMA` ao final do processamento.
 
 4. **Exercício 4: Completar Sequências Numéricas**
-   - Arquivo: `completar_sequencias.c`
+   - Arquivo: `completar_sequencias.md`
    - Descrição: Completar as sequências numéricas fornecidas com base em suas respectivas lógicas.
 
 5. **Exercício 5: Interruptores e Lâmpadas**
-   - Arquivo: `interruptores_lampadas.txt`
+   - Arquivo: `interruptores_lampadas.md`
    - Descrição: Explicação lógica sobre como descobrir qual interruptor controla cada lâmpada com apenas duas idas até uma das salas.
