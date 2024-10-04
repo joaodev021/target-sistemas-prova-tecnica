@@ -29,7 +29,7 @@
   - Após isso, parece que estamos aumentando 1 repetidamente. Assim, a sequência segue.
 - **Próximos elementos**: 20, 21, 22, 23.
 
-### Resumo dos próximos elementos:
+### Respostas dos próximos elementos:
 - a) 9, 11, 13, 15
 - b) 128, 256, 512, 1024
 - c) 49, 64, 81, 100
